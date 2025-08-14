@@ -6,19 +6,6 @@ keywords:
   - Consumer Monitor
   - Frequency Tagging
 
-format:
-  apaquarto-pdf:
-    documentmode: man
-    floatsintext: false
-    a4paper: true
-    fontsize: 10pt
-  apaquarto-docx:
-    documentmode: man
-    floatsintext: false
-    a4paper: true
-    fontsize: 10pt
-  
-
 author:
   - name: Olaf Dimigen
     corresponding: true
