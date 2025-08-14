@@ -1,0 +1,132 @@
+---
+title: "Rapid Invisible Frequency Tagging (RIFT) with a 480 Hz consumer OLED monitor"
+shorttitle: "AFFORDABLE RIFT"
+keywords: 
+  - RIFT
+  - Consumer Monitor
+  - Frequency Tagging
+
+format:
+  apaquarto-pdf:
+    documentmode: man
+    floatsintext: false
+    a4paper: true
+    fontsize: 10pt
+  apaquarto-docx:
+    documentmode: man
+    floatsintext: false
+    a4paper: true
+    fontsize: 10pt
+  
+
+author:
+  - name: Olaf Dimigen
+    corresponding: true
+    roles:
+      - conceptualization
+      - writing - original draft
+      - software
+      - methodology
+      - supervision
+      
+    affiliations:
+      - id: id1
+        name: University of Groningen
+        department: Department of Experimental Psychology
+        
+  - name: Ioana Badea
+    roles:
+      - investigation
+      - data curation
+      - formal analysis
+    affiliations: 
+      - ref: id1
+      
+  - name: Iarina Simon
+    roles:
+      - investigation
+      - data curation
+      - formal analysis
+    affiliations:
+      - ref: id1
+      
+  - name: Mark M. Span
+    roles:
+      - resources
+    affiliations:
+      - ref: id1
+
+author-note:
+  disclosures:
+    Raw data, experimental scripts, and analysis scripts will be made available at the Open Science Framework (OSF) upon publication https://osf.io/py29b. We would like to thank Pieter Zandbergen for his help in acquiring the hardware used in this study. 
+
+abstract: "{{< lipsum 5 >}}"
+
+bibliography: bibliography.bib
+lang: en
+
+---
+
+
+# Introduction 
+See @Arora2024, {{< lipsum 2 >}}
+
+# Method
+{{< lipsum 2 >}}
+
+## Participants
+{{< lipsum 2 >}}
+
+## Stimulation
+{{< lipsum 2 >}}
+
+## Apparatus: System configuration for RIFT
+
+![System configuration used for RIFT stimulation](forPoster.eps){#fig-a}
+
+![Timing accuracy validation using photodiode traces](forPoster2.eps){#fig-b}
+
+This is referenced in @fig-a and @fig-b.
+{{< lipsum 2 >}}
+
+## Procedure
+{{< lipsum 2 >}}
+
+### EEG recording
+{{< lipsum 2 >}}
+
+#### EEG preprocessing
+{{< lipsum 2 >}}
+
+#### RIFT analysis: Cross-coherence
+{{< lipsum 2 >}}
+
+$$
+C(f,t) = \left| \frac{1}{N} \sum_{n=1}^{N} \frac{Oz_n(f,t) \cdot PD_n^{*}(f,t)} {\left| Oz_n (f,t) \cdot PD_n^{*}(f,t) \right|} \right|
+$${#eq-crosscoherence}
+
+where:
+
+ - $N$ is the number of trials.
+ 
+ - $Oz_n(f,t)$ and $PD_n(f,t)$ represent the complex time-frequency coefficients of the EEG channel (here: $Oz$) and the photodiode channel ($PD$), respectively, at frequency $f$ and time $t$ for trial $n$.
+ 
+ - $*$ denotes the complex conjugate.
+
+(see @eq-crosscoherence.)
+
+#### Statistical analysis
+{{< lipsum 2 >}}
+
+# Results
+{{< lipsum 2 >}}
+
+# Discussion
+{{< lipsum 2 >}}
+
+::: {#refs}
+:::
+
+
+
+
