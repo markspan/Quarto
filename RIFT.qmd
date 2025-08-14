@@ -69,9 +69,9 @@ See @Arora2024, {{< lipsum 2 >}}
 
 ## Apparatus: System configuration for RIFT
 
-![System configuration used for RIFT stimulation](forPoster.eps){#fig-a}
+![System configuration used for RIFT stimulation](forPoster.png){#fig-a}
 
-![Timing accuracy validation using photodiode traces](forPoster2.eps){#fig-b}
+![Timing accuracy validation using photodiode traces](forPoster2.png){#fig-b}
 
 This is referenced in @fig-a and @fig-b.
 {{< lipsum 2 >}}
