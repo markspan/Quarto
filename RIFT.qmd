@@ -1,5 +1,5 @@
 ---
-title: "Rapid Invisible Frequency Tagging (RIFT) with a 480 Hz consumer OLED monitor"
+title: "More Rapid Invisible Frequency Tagging (RIFT) with a 480 Hz consumer OLED monitor"
 shorttitle: "AFFORDABLE RIFT"
 keywords: 
   - RIFT
