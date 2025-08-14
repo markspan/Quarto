@@ -5,4 +5,4 @@ format:
   html:
     embed-resources: true
     self-contained-math: true
-    theme: solar
+    theme: darkly
