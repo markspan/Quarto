@@ -1,5 +1,5 @@
 ---
-title: "More Rapid Invisible Frequency Tagging (RIFT) with a 480 Hz consumer OLED monitor"
+title: "Rapid Invisible Frequency Tagging (RIFT) with a 480 Hz consumer OLED monitor"
 shorttitle: "AFFORDABLE RIFT"
 keywords: 
   - RIFT
@@ -47,7 +47,7 @@ author-note:
   disclosures:
     Raw data, experimental scripts, and analysis scripts will be made available at the Open Science Framework (OSF) upon publication https://osf.io/py29b. We would like to thank Pieter Zandbergen for his help in acquiring the hardware used in this study. 
 
-abstract: "{{< lipsum 5 >}}"
+abstract: "{{< lipsum 1 >}}"
 
 bibliography: bibliography.bib
 lang: en
